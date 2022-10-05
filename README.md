@@ -1,5 +1,7 @@
 # binarytree-proje
 patikadev projesi
+                   
+                   
                    [Root]
                     [7]
                     / \
